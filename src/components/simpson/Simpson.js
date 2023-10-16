@@ -6,7 +6,7 @@ const Simpson = ({ simpson: { name, occupation, gender, image } }) => {
       <div className="text">
         <h3>Name: {name}</h3>
         <p>Occupation: {occupation}</p>
-        <p>Sex: {gender}</p>
+        <p>Gender: {gender}</p>
       </div>
 
       <p>

@@ -7,7 +7,7 @@ const Character = ({ character: { name, status, species, gender, image } }) => {
         <h3>Name: {name}</h3>
         <p>Status: {status}</p>
         <p>Species: {species}</p>
-        <p>Sex: {gender}</p>
+        <p>Gender: {gender}</p>
       </div>
 
       <p>
