@@ -1,4 +1,5 @@
 import './App.css';
+import { Characters } from './components/characters/Characters';
 import { Simpsons } from './components/simpsons/Simpsons';
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <br />
 
       <h2>Second task: </h2>
+      <Characters />
     </div>
   );
 }
