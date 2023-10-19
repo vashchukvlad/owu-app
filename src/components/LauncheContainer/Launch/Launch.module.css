@@ -1,0 +1,9 @@
+.Launch {
+    width: calc(10% - 2px);
+    border: 1px solid rgb(7, 238, 226);
+}
+
+.pic {
+    width: 100px;
+    height: 120px;
+}
